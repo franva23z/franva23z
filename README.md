@@ -48,8 +48,8 @@
 │                                                        │
 │   LET'S BUILD SOMETHING / VAMOS CONECTAR               │
 │                                                        │
-│   💼 LinkedIn : [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil) │
-│   💻 GitHub   : [https://github.com/franva23z](https://github.com/franva23z)           │
-│   📧 Email    : seu-email@email.com                    │
+│  LinkedIn:[www.linkedin.com/in/tuanny-silva-2651bb236)
+│ 
+│  Email: tuannyfranva@gmail.com                  
 │                                                        │
 ╰────────────────────────────────────────────────────────╯
