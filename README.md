@@ -4,7 +4,8 @@
   </a>
 </p>
 
-  <p> <code>transformando lógica complexa em software funcional</code> </p>
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=805&height=44&lines=backend%20developer%20%7C%20java%20%26%20spring%20boot;transformando%20l%C3%B3gica%20complexa%20em%20software%20funcional" alt="Typing headlines" />
 
  
   <p>
