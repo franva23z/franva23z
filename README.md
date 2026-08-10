@@ -48,14 +48,13 @@
 <div align="center">
   <pre style="display: inline-block; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; border-radius: 6px; padding: 16px; font-family: monospace;">
 ╭─────────────                         ────────────────────────────                ───────╮
-│                                                                        
-│   LET'S BUILD SOMETHING / VAMOS CONECTAR                               
-│                                                                        
-│ LinkedIn:<a href="https://br.linkedin.com/in/tuanny-silva-2651bb236" style="color: #58a6ff;"
+                                                                        
+   LET'S BUILD SOMETHING / VAMOS CONECTAR                               
+   LinkedIn:<a href="https://br.linkedin.com/in/tuanny-silva-2651bb236" style="color: #58a6ff;"
                    >https://br.linkedin.com/in/tuanny-silva-2651bb236</a>
-│ 
-│ Email:<a href="mailto:Tuannyfranva@gmail.com" style="color: #58a6ff;">Tuannyfranva@gmail.com</a>                          
-│                                                                       
+ 
+ Email:<a href="mailto:Tuannyfranva@gmail.com" style="color: #58a6ff;">Tuannyfranva@gmail.com</a>                          
+                                                                       
 ╰─────────────────────                                     ────────────────           ───╯
   </pre>
 </div>
