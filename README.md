@@ -1,8 +1,9 @@
-<div align="center">
-  
-   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Tuanny" alt="Hello! I&#39;m Tuanny" />
+<p align="center">
+  <a href="https://github.com/franva23z">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Tuanny" alt="Hello! I&#39;m Tuanny" />
   </a>
-  
+</p>
+
   <p> <code>transformando lógica complexa em software funcional</code> </p>
 
  
