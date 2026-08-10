@@ -31,16 +31,10 @@
 
 ---
 
-### 🕹️ Área Interativa: O Desafio do Pac-Man
 
 
-<div align="center">
+
  
-  <img src="https://github.com/krzysu/pacman-github-profile/raw/master/assets/pacman.gif" alt="Pac-Man GitHub Status" width="50%" />
-  <br>
-  <small><i>(Esta é uma demonstração. O Pac-Man real aparecerá quando você configurar a Action no seu repositório `franva23z/franva23z`).</i></small>
-</div>
-
 ---
 
 <div align="center">
