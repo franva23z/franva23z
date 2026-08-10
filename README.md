@@ -43,17 +43,64 @@
 
 ---
 <div align="center">
-  <!-- Texto animado piscando/escrevendo/apagando em Laranja -->
-  <a href="https://github.com/franva23z">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&height=50&lines=Dakar+es;Dakar+es;Dakar+es" alt="Dakar es typing animation" />
-  </a>
+  <!-- Dragão em Arte ASCII + Texto DRACARYS Animado em Laranja -->
+  <svg width="600" height="350" viewBox="0 0 600 350" xmlns="http://www.w3.org/2000/svg">
+    <!-- Estilos para as fontes e animação -->
+    <style>
+      /* Fonte monoespaçada para a Arte ASCII não quebrar */
+      .ascii-art {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 11px;
+        fill: #4f46e5; /* Cor indigo padrão do seu perfil */
+        white-space: pre;
+      }
+      /* Fonte impactante para o texto e animação de piscar */
+      .dracarys-text {
+        font-family: 'Verdana', Geneva, sans-serif;
+        font-size: 36px;
+        font-weight: bold;
+        fill: #FF6B00; /* Laranja Vibrante */
+        animation: blinker 1.5s linear infinite;
+      }
+      @keyframes blinker {
+        50% { opacity: 0; }
+      }
+    </style>
 
-  <br/>
+    <!-- O Dragão em Arte ASCII (Feito com @, #, numbers, etc.) -->
+    <!-- Centralizado manualmente no SVG -->
+    <text x="100" y="20" class="ascii-art">
+      <tspan x="100" dy="1.2em">           0000000000000        </tspan>
+      <tspan x="100" dy="1.2em">        0000000@@@@@@000000     </tspan>
+      <tspan x="100" dy="1.2em">      000000@@@@@@@@@@@@00000   </tspan>
+      <tspan x="100" dy="1.2em">     00000@@@@@@@@@@@@@@@@0000  </tspan>
+      <tspan x="100" dy="1.2em">    00000@@@@@@@@@@@@@@@@@@0000 </tspan>
+      <tspan x="100" dy="1.2em">    0000@@@@@@@@@@@@@@@@@@@@000 </tspan>
+      <tspan x="100" dy="1.2em">    000@@@@@@@@@@@@@@@@@@@@@@00 </tspan>
+      <tspan x="100" dy="1.2em">    00@@@@@@@@@@@@@@@@@@@@@@@@0 </tspan>
+      <tspan x="100" dy="1.2em">    0@@@@@@@@@@@@@@@@@@@@@@@@@0 </tspan>
+      <tspan x="100" dy="1.2em">    0@@@@@@@@@@@@@@@@@@@@@@@@@0 </tspan>
+      <tspan x="100" dy="1.2em">    0@@@@@@@@@@@@@@@@@@@@@@@@@0 </tspan>
+      <tspan x="100" dy="1.2em">   ##@@@@@@@@@@@@@@@@@@@@@@@@@##</tspan>
+      <tspan x="100" dy="1.2em">   ##@@@@@@@@@@@@@@@@@@@@@@@@@##</tspan>
+      <tspan x="100" dy="1.2em">  ####@@@@@@@@@@@@@@@@@@@@@@@###</tspan>
+      <tspan x="100" dy="1.2em">  #####@@@@@@@@@@@@@@@@@@@@@####</tspan>
+      <tspan x="100" dy="1.2em">  ######@@@@@@@@@@@@@@@@@@@#####</tspan>
+      <tspan x="100" dy="1.2em">  #######@@@@@@@@@@@@@@@@@######</tspan>
+      <tspan x="100" dy="1.2em">   ########@@@@@@@@@@@@@####### </tspan>
+      <tspan x="100" dy="1.2em">    #########@@@@@@@@@########  </tspan>
+      <tspan x="100" dy="1.2em">     ##########@@@@@#########   </tspan>
+      <tspan x="100" dy="1.2em">       ####################     </tspan>
+      <tspan x="100" dy="1.2em">         ################       </tspan>
+      <tspan x="100" dy="1.2em">            ##########          </tspan>
+    </text>
 
-  <!-- Dragão Cuspindo Fogo (GIF Animado) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpud3N1dmhpOHBvNnYydW4xYXc1dmMwd20ydnJmcmsxdmtudTB0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKrEzvLbsVAud8I/giphy.gif" alt="Dragon breathing fire" width="220" />
+    <!-- Texto DRACARYS Piscando em Laranja abaixo do Dragão -->
+    <text x="300" y="320" text-anchor="middle" class="dracarys-text">
+      DRACARYS
+    </text>
+  </svg>
 </div>
-###
 
 ```text
 ╭────────────────────────────────────────────────────────╮
