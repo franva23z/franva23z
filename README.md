@@ -30,7 +30,13 @@
 * **Automações:** Criando soluções para o que é repetitivo (como o projeto `factaDrs`).
 
 ---
+<div align="center">
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franva23z/franva23z/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/franva23z/franva23z/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" width="60%" style="background: transparent;">
+  </picture>
+</div>
 
 
 
